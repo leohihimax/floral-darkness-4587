@@ -1,7 +1,6 @@
 {
   "name": "vite-react-template",
   "assets": {
-    "directory": "./dist",
-    "notFoundStrategy": "singlePageApplication"
+    "directory": "./dist"
   }
 }
